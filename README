@@ -9,4 +9,9 @@ Example
 
 {{ 'Some text' | 'http://some-url.here' }}
 
+See also
+========
+
+Will Paginate Liquidized - http://github.com/hiddenloop/will_paginate-liquidized
+
 Copyright (c) 2010 Andrey Kouznetsov, released under the MIT license
