@@ -1,13 +1,12 @@
 Liquid-filters
 ==============
 
-Introduction goes here.
+This plugin contains some useful filters for tobi-liquid(http://github.com/tobi/liquid)
 
 
 Example
 =======
 
-Example goes here.
+{{ 'Some text' | 'http://some-url.here' }}
 
-
-Copyright (c) 2010 [name of plugin creator], released under the MIT license
+Copyright (c) 2010 Andrey Kouznetsov, released under the MIT license
