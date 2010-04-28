@@ -7,7 +7,13 @@ This plugin contains some useful filters for tobi-liquid(http://github.com/tobi/
 Example
 =======
 
-{{ 'Some text' | 'http://some-url.here' }}
+{{ 'Some text' | link_to 'http://some-url.here' }}
+
+or
+
+{{ 'Some text' | link_to_unless_current 'http://some-url.here' }}
+
+If you need some other filter create issue or fork this project, write your filter and create issue then I merge repos.
 
 See also
 ========
